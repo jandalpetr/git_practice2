@@ -1,0 +1,5 @@
+git statuts
+git config --list
+got add.
+git commit - Record changes to the repository
+git push origin master - Update remote refs along with associated objects
